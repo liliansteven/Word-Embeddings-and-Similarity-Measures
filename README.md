@@ -38,7 +38,7 @@ This repository contains a comprehensive purpose in Natural Language Processing 
    - Provides a geometric interpretation of dissimilarity.
 
 
-### Output and Analysis:
+### Steps:
 - Reads the content of three documents (`Document1.txt`, `Document2.txt`,` Document3.txt`).
 - Tokenizes each document, applies stopword removal, and preprocesses the text.
 - Calculates document embeddings using the Word2Vec model.
